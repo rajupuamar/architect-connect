@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "EssArchitech", "EssArchitech\", "{D8909853-6701-4699-9B2F-DC833428B6DB}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_49219"
+		Debug.AspNetCompiler.PhysicalPath = "EssArchitech\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_49219\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_49219"
+		Release.AspNetCompiler.PhysicalPath = "EssArchitech\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_49219\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "49219"
+		SlnRelativePath = "EssArchitech\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D8909853-6701-4699-9B2F-DC833428B6DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8909853-6701-4699-9B2F-DC833428B6DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A0A4F3D8-CA1E-4C01-B44F-90AF379B1FD6}
+	EndGlobalSection
+EndGlobal
